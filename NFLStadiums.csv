@@ -1,0 +1,32 @@
+Year,StadiumName,Address,City,State,TeamName,TotalCost,TotalPublic,TotalPrivate,PublicPercent,PrivatePercent
+2020,SoFi Stadium,1000 S Prairie Ave,Inglewood,CA,Rams.Chargers,4963,0,4963,0,1
+2020,Allegiant Stadium,3333 Al Davis Way,Las Vegas,NV,Raiders,1900,750,1150,0.39,0.61
+2018,Mercedes Benz Stadium,1 AMB Dr NW,Atlanta,GA,Falcons,1500,450,1050,0.3,0.7
+2016,US Bank Stadium,401 Chicago Ave,Minneapolis,MN,Vikings,1070,498,572,0.47,0.53
+2016,Hard Rock Stadium,347 Don Shula Dr,Miami Gardens,FL,Dolphins,115,103.5,11.5,0.9,0.1
+2015,Levis Stadium,4900 Marie P DeBartolo Way,Santa Clara,CA,49ers,987,114,873,0.12,0.88
+2010,MetLife Stadium,1 MetLife Stadium Dr,East Rutherford,NJ,Jets.Giants,1600,0,1600,0,1
+2009,ATT Stadium,1 AT&T Way,Arlington,TX,Cowboys,1194,444,750,0.37,0.63
+2008,Lucas Oil Stadium,500 S Capitol Ave,Indianapolis,IN,Colts,719.6,619.6,100,0.86,0.14
+2006,State Farm Stadium,1 Cardinals Dr,Glendale,AZ,Cardinals,455,308,147,0.68,0.32
+2003,Lincoln Financial Field,One Lincoln Financial Way,Philadelphia,PA,Eagles,518,188,330,0.36,0.64
+2003,Soldier Field,1410 Museum Campus Dr,Chicago,IL,Bears,587,387,200,0.66,0.34
+2003,Lambeau Field,1265 Lombardi Ave,Green Bay,WI,Packers,295.2,169.1,126.1,0.57,0.43
+2002,Gillette Stadium,1 Patriot Pl,Foxborough,MA,Patriots,412,72,340,0.17,0.83
+2002,Ford Field,2000 Brush St,Detroit,MI,Lions,440,110,330,0.25,0.75
+2002,NRG Stadium,NRG Pkwy,Houston,TX,Texans,474,289,185,0.61,0.39
+2002,CenturyLink Field,800 Occidental Ave S,Seattle,WA,Seahawks,461.3,300.3,161,0.65,0.35
+2001,Heinz Field,100 Art Rooney Ave,Pittsburgh,PA,Steelers,280.8,171.6,109.2,0.61,0.39
+2001,Sports Authority Field,1701 Bryant St,Denver,CO,Broncos,400.8,289,111.8,0.72,0.28
+2000,Paul Brown Stadium,1 Paul Brown Stadium,Cincinnati,OH,Bengals,449.8,424.8,25,0.94,0.06
+1999,Nissan Stadium,1 Titans Way,Nashville,TN,Titans,291.7,206.9,84.8,0.71,0.29
+1999,FirstEnergy Stadium,100 Alfred Lerner Way,Cleveland,OH,Browns,271,200,71,0.74,0.26
+1998,MT Bank Stadium,1101 Russell St,Baltimore,MD,Ravens,226,203.6,22.4,0.9,0.1
+1998,Raymond James Stadium,4201 N Dale Mabry Hwy,Tampa,FL,Buccaneers,194,194,0,1,0
+1997,FedEx Field,1600 Fedex Way,Landover,MD,WFT,2505,751.5,1753.5,0.3,0.7
+1996,Bank of America Stadium,800 S Mint St,Charlotte,NC,Panthers,242,55.66,186.34,0.23,0.77
+1995,TIAA Bank Field,1 TIAA Bank Field Dr,Jacksonville,FL,Jaguars,121,103.818,17.182,0.86,0.14
+1975,Mercedes Benz Superdome,1500 Sugar Bowl Dr,New Orleans,LA,Saints,134,134,0,1,0
+1973,New Era Field,1 Bills Dr,Orchard Park,NY,Bills,22,22,0,1,0
+1972,Arrowhead Stadium,1 Arrowhead Dr,Kansas City,MO,Chiefs,43,43,0,1,0
+,,,,,,22872.2,7602.378,15269.822,0.579,0.421
